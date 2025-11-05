@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SSTV Gallery</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+        
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding: 30px;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+        
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+            font-size: 2.5rem;
+        }
+        
+        .folder-section {
+            margin-bottom: 40px;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+        
+        .folder-title {
+            background: linear-gradient(45deg, #3498db, #9b59b6);
+            color: white;
+            padding: 20px;
+            font-size: 1.4rem;
+            font-weight: 600;
+        }
+        
+        .images-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 20px;
+            padding: 20px;
+        }
+        
+        .image-item {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            transition: transform 0.3s ease;
+        }
+        
+        .image-item:hover {
+            transform: translateY(-5px);
+        }
+        
+        .image-wrapper {
+            height: 200px;
+            overflow: hidden;
+        }
+        
+        .image-wrapper img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        
+        .image-name {
+            padding: 12px;
+            text-align: center;
+            border-top: 1px solid #eee;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #7f8c8d;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>SSTV Gallery</h1>
+            <p>Received by XXXXXX</p>
+        </header>
+        
+        <div id="folders-container">
+            <div class="loading">正在加载图片...</div>
+        </div>
+    </div>
+
+    <script>
+        async function loadGallery() {
+            try {
+                const response = await fetch('data/gallery-data.json');
+                const data = await response.json();
+                displayGallery(data);
+            } catch (error) {
+                console.error('加载失败:', error);
+                document.getElementById('folders-container').innerHTML = 
+                    '<div class="loading">加载失败，请检查数据文件</div>';
+            }
+        }
+
+        function displayGallery(data) {
+            const container = document.getElementById('folders-container');
+            container.innerHTML = '';
+
+            for (const [folderName, images] of Object.entries(data)) {
+                const folderSection = document.createElement('div');
+                folderSection.className = 'folder-section';
+                
+                folderSection.innerHTML = `
+                    <div class="folder-title">${folderName}</div>
+                    <div class="images-container">
+                        ${images.map(image => `
+                            <div class="image-item">
+                                <div class="image-wrapper">
+                                    <img src="${image.url}" alt="${image.name}" loading="lazy">
+                                </div>
+                                <div class="image-name">${image.name}</div>
+                            </div>
+                        `).join('')}
+                    </div>
+                `;
+                
+                container.appendChild(folderSection);
+            }
+        }
+
+        // 页面加载时获取数据
+        loadGallery();
+    </script>
+</body>
+</html>

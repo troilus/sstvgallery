@@ -1,0 +1,25 @@
+name: Generate Gallery Data
+
+on:
+  push:
+    paths:
+      - 'images/**'
+  workflow_dispatch:
+
+jobs:
+  generate-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate gallery data
+        run: |
+          python generate_data.py
+          
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/gallery-data.json
+          git diff --staged --quiet || git commit -m "Update gallery data"
+          git push
