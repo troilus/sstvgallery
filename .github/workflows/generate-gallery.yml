@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           
@@ -24,15 +24,9 @@ jobs:
         run: |
           python generate_data.py
           
-      - name: Commit changes
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add data/gallery-data.json
-          # 检查是否有更改
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Automated: Update gallery data [skip ci]"
-            git push
-          fi
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Automated: Update gallery data"
+          file_pattern: data/gallery-data.json
+          skip_fetch: true
