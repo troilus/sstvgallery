@@ -1,134 +1,78 @@
 {
-  "rs74s": [
+  "RS74S": [
     {
-      "name": "A150357.png",
+      "name": "RS-74S-2025-04-01.png",
       "date": "2025-11-05",
-      "url": "images/rs74s/A150357.png",
-      "size": 18270
+      "url": "images/RS74S/RS-74S-2025-04-01.png",
+      "size": 126052
     },
     {
-      "name": "A146313.png",
+      "name": "RS74S-2024-12-30.png",
       "date": "2025-11-05",
-      "url": "images/rs74s/A146313.png",
-      "size": 7172
-    },
-    {
-      "name": "A150846.png",
-      "date": "2025-11-05",
-      "url": "images/rs74s/A150846.png",
-      "size": 16460
-    },
-    {
-      "name": "A146308.png",
-      "date": "2025-11-05",
-      "url": "images/rs74s/A146308.png",
-      "size": 2320
-    },
-    {
-      "name": "A146314.png",
-      "date": "2025-11-05",
-      "url": "images/rs74s/A146314.png",
-      "size": 2486
-    },
-    {
-      "name": "A148186.png",
-      "date": "2025-11-05",
-      "url": "images/rs74s/A148186.png",
-      "size": 6849
-    },
-    {
-      "name": "A149876.png",
-      "date": "2025-11-05",
-      "url": "images/rs74s/A149876.png",
-      "size": 18892
-    },
-    {
-      "name": "A147585.png",
-      "date": "2025-11-05",
-      "url": "images/rs74s/A147585.png",
-      "size": 19652
-    },
-    {
-      "name": "A146331.png",
-      "date": "2025-11-05",
-      "url": "images/rs74s/A146331.png",
-      "size": 9322
-    }
-  ],
-  "rs40s": [
-    {
-      "name": "A076220.png",
-      "date": "2025-11-05",
-      "url": "images/rs40s/A076220.png",
-      "size": 5120
-    },
-    {
-      "name": "A085603.png",
-      "date": "2025-11-05",
-      "url": "images/rs40s/A085603.png",
-      "size": 7479
-    },
-    {
-      "name": "A103809.png",
-      "date": "2025-11-05",
-      "url": "images/rs40s/A103809.png",
-      "size": 3993
-    },
-    {
-      "name": "A109729.png",
-      "date": "2025-11-05",
-      "url": "images/rs40s/A109729.png",
-      "size": 12557
-    },
-    {
-      "name": "A092670.png",
-      "date": "2025-11-05",
-      "url": "images/rs40s/A092670.png",
-      "size": 7538
-    },
-    {
-      "name": "A110648.png",
-      "date": "2025-11-05",
-      "url": "images/rs40s/A110648.png",
-      "size": 3644
-    },
-    {
-      "name": "A107343.png",
-      "date": "2025-11-05",
-      "url": "images/rs40s/A107343.png",
-      "size": 8071
-    },
-    {
-      "name": "A106279.png",
-      "date": "2025-11-05",
-      "url": "images/rs40s/A106279.png",
-      "size": 12005
+      "url": "images/RS74S/RS74S-2024-12-30.png",
+      "size": 160702
     }
   ],
   "ISS": [
     {
-      "name": "A053035.png",
+      "name": "ISS-2025-02-242.png",
       "date": "2025-11-05",
-      "url": "images/ISS/A053035.png",
-      "size": 8195
+      "url": "images/ISS/ISS-2025-02-242.png",
+      "size": 561493
     },
     {
-      "name": "A036688.png",
+      "name": "ISS-2025-02024.png",
       "date": "2025-11-05",
-      "url": "images/ISS/A036688.png",
-      "size": 9042
+      "url": "images/ISS/ISS-2025-02024.png",
+      "size": 623388
     },
     {
-      "name": "A053036.png",
+      "name": "ISS-2025-02-24.png",
       "date": "2025-11-05",
-      "url": "images/ISS/A053036.png",
-      "size": 8016
+      "url": "images/ISS/ISS-2025-02-24.png",
+      "size": 571555
+    }
+  ],
+  "RS38S": [
+    {
+      "name": "RS38S-2025-01-08.png",
+      "date": "2025-11-05",
+      "url": "images/RS38S/RS38S-2025-01-08.png",
+      "size": 146452
     },
     {
-      "name": "A036687.png",
+      "name": "RS38S-2025-02-08.png",
       "date": "2025-11-05",
-      "url": "images/ISS/A036687.png",
-      "size": 9285
+      "url": "images/RS38S/RS38S-2025-02-08.png",
+      "size": 170549
+    }
+  ],
+  "RS66S": [
+    {
+      "name": "RS66S-2025-01-05.png",
+      "date": "2025-11-05",
+      "url": "images/RS66S/RS66S-2025-01-05.png",
+      "size": 170793
+    }
+  ],
+  "RS40S": [
+    {
+      "name": "RS40S-2025-04-01.png",
+      "date": "2025-11-05",
+      "url": "images/RS40S/RS40S-2025-04-01.png",
+      "size": 63767
+    },
+    {
+      "name": "RS40S-2025-03-08.png",
+      "date": "2025-11-05",
+      "url": "images/RS40S/RS40S-2025-03-08.png",
+      "size": 156314
+    },
+    {
+      "name": "RS40S.png",
+      "date": "2025-11-05",
+      "url": "images/RS40S/RS40S.png",
+      "size": 185269
     }
   ]
 }
