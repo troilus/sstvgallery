@@ -23,6 +23,14 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Install Pillow
+        run: |
+          pip install Pillow
+
+      - name: Convert images to WebP
+        run: |
+          python convert_to_webp.py
+
       - name: Generate gallery data
         run: |
           python generate_data.py
@@ -30,6 +38,6 @@ jobs:
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Automated: Update gallery data"
-          file_pattern: data/gallery-data.json
+          commit_message: "Automated: Update gallery and convert to WebP"
+          file_pattern: data/gallery-data.json webpimages/**
           skip_fetch: true

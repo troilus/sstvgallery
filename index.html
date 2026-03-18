@@ -51,8 +51,8 @@
         .folder-title {
             background: linear-gradient(45deg, #3498db, #9b59b6);
             color: white;
-            padding: 20px;
-            font-size: 1.4rem;
+            padding: 15px 20px;
+            font-size: 1.1rem;
             font-weight: 600;
             cursor: pointer;
             user-select: none;
@@ -76,12 +76,12 @@
         }
 
         .images-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-            gap: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
             padding: 20px;
-            max-height: 2000px;
-            overflow: hidden;
+            max-height: 5000px;
+            overflow-y: auto;
             transition: max-height 0.5s ease-out, opacity 0.3s ease;
         }
 
@@ -90,33 +90,68 @@
             padding-top: 0;
             padding-bottom: 0;
             opacity: 0;
+            overflow: hidden;
         }
-        
+
         .image-item {
+            display: flex;
+            align-items: center;
+            gap: 15px;
             background: white;
-            overflow: hidden;
-            transition: transform 0.3s ease;
+            padding: 8px 15px;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+            cursor: pointer;
         }
-        
+
         .image-item:hover {
-            transform: translateY(-5px);
+            background: #f8f9fa;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
         }
-        
+
         .image-wrapper {
-            height: 200px;
+            height: 1.2em;
+            flex-shrink: 0;
             overflow: hidden;
+            border-radius: 4px;
         }
-        
+
         .image-wrapper img {
+            height: 100%;
+            width: auto;
+            object-fit: contain;
+        }
+
+        .image-name {
+            flex: 1;
+            font-size: 0.9rem;
+            color: #555;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
             width: 100%;
             height: 100%;
-            object-fit: cover;
+            background: rgba(0, 0, 0, 0.9);
+            z-index: 9999;
+            justify-content: center;
+            align-items: center;
         }
-        
-        .image-name {
-            padding: 12px;
-            text-align: center;
-            border-top: 1px solid #eee;
+
+        .modal.active {
+            display: flex;
+        }
+
+        .modal img {
+            max-width: 90%;
+            max-height: 90%;
+            object-fit: contain;
         }
         
         .loading {
@@ -135,6 +170,10 @@
         
         <div id="folders-container">
             <div class="loading">正在加载图片...</div>
+        </div>
+
+        <div id="image-modal" class="modal" onclick="closeModal(event)">
+            <img id="modal-image" src="" alt="大图预览">
         </div>
     </div>
 
@@ -159,11 +198,15 @@
                 const folderSection = document.createElement('div');
                 folderSection.className = 'folder-section';
 
+                const imageCount = images.length;
+
                 folderSection.innerHTML = `
-                    <div class="folder-title" onclick="toggleFolder(this)">${folderName}</div>
-                    <div class="images-container">
+                    <div class="folder-title collapsed" onclick="toggleFolder(this)">
+                        ${folderName} <span style="font-size: 0.85em; opacity: 0.8; margin-left: 10px;">(${imageCount})</span>
+                    </div>
+                    <div class="images-container collapsed">
                         ${images.map(image => `
-                            <div class="image-item">
+                            <div class="image-item" onclick="showImage('${image.url}')">
                                 <div class="image-wrapper">
                                     <img src="${image.url}" alt="${image.name}" loading="lazy">
                                 </div>
@@ -181,6 +224,20 @@
             const imagesContainer = titleElement.nextElementSibling;
             titleElement.classList.toggle('collapsed');
             imagesContainer.classList.toggle('collapsed');
+        }
+
+        function showImage(url) {
+            const modal = document.getElementById('image-modal');
+            const modalImg = document.getElementById('modal-image');
+            modalImg.src = url;
+            modal.classList.add('active');
+        }
+
+        function closeModal(e) {
+            if (e.target.id === 'image-modal') {
+                const modal = document.getElementById('image-modal');
+                modal.classList.remove('active');
+            }
         }
 
         // 页面加载时获取数据
