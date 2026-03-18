@@ -54,13 +54,42 @@
             padding: 20px;
             font-size: 1.4rem;
             font-weight: 600;
+            cursor: pointer;
+            user-select: none;
+            transition: all 0.3s ease;
+            position: relative;
         }
-        
+
+        .folder-title:hover {
+            background: linear-gradient(45deg, #2980b9, #8e44ad);
+        }
+
+        .folder-title::after {
+            content: '▼';
+            position: absolute;
+            right: 20px;
+            transition: transform 0.3s ease;
+        }
+
+        .folder-title.collapsed::after {
+            transform: rotate(-90deg);
+        }
+
         .images-container {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
             gap: 20px;
             padding: 20px;
+            max-height: 2000px;
+            overflow: hidden;
+            transition: max-height 0.5s ease-out, opacity 0.3s ease;
+        }
+
+        .images-container.collapsed {
+            max-height: 0;
+            padding-top: 0;
+            padding-bottom: 0;
+            opacity: 0;
         }
         
         .image-item {
@@ -129,9 +158,9 @@
             for (const [folderName, images] of Object.entries(data)) {
                 const folderSection = document.createElement('div');
                 folderSection.className = 'folder-section';
-                
+
                 folderSection.innerHTML = `
-                    <div class="folder-title">${folderName}</div>
+                    <div class="folder-title" onclick="toggleFolder(this)">${folderName}</div>
                     <div class="images-container">
                         ${images.map(image => `
                             <div class="image-item">
@@ -143,9 +172,15 @@
                         `).join('')}
                     </div>
                 `;
-                
+
                 container.appendChild(folderSection);
             }
+        }
+
+        function toggleFolder(titleElement) {
+            const imagesContainer = titleElement.nextElementSibling;
+            titleElement.classList.toggle('collapsed');
+            imagesContainer.classList.toggle('collapsed');
         }
 
         // 页面加载时获取数据
