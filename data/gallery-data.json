@@ -457,6 +457,12 @@
   ],
   "🛰SAKHACUBE-CHOLBON RS18S": [
     {
+      "name": "RS18S 2026-04-12 0330 UTC BD8CKF OM20BQ.bmp",
+      "date": "2026-04-12",
+      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-04-12 0330 UTC BD8CKF OM20BQ.bmp.webp",
+      "size": 43614
+    },
+    {
       "name": "2026-04-12 0328 UTC BD8CKF OM20BQ",
       "date": "2026-04-12",
       "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/2026-04-12 0328 UTC BD8CKF OM20BQ.webp",
@@ -467,6 +473,12 @@
       "date": "2026-04-12",
       "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/2026-04-12 0330 UTC BD8CKF OM20BQ.bmp.webp",
       "size": 43614
+    },
+    {
+      "name": "RS18S 2026-04-12 0328 UTC BD8CKF OM20BQ",
+      "date": "2026-04-12",
+      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-04-12 0328 UTC BD8CKF OM20BQ.webp",
+      "size": 46334
     },
     {
       "name": "RS18S 2026-03-09 1455 UTC BD8CKF OMCQ",
@@ -550,7 +562,7 @@
   "🛰MANOZOND-1 RS49S": [
     {
       "name": "🛰RS49S 20250112 1354 UTC BD8CKF OM20CQ",
-      "date": "2026-04-12",
+      "date": "2026-04-13",
       "url": "webpimages/🛰MANOZOND-1 RS49S/🛰RS49S 20250112 1354 UTC BD8CKF OM20CQ.webp",
       "size": 40458
     }
