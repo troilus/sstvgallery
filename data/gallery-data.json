@@ -562,12 +562,18 @@
   "🛰MANOZOND-1 RS49S": [
     {
       "name": "🛰RS49S 20250112 1354 UTC BD8CKF OM20CQ",
-      "date": "2026-04-13",
+      "date": "2026-04-18",
       "url": "webpimages/🛰MANOZOND-1 RS49S/🛰RS49S 20250112 1354 UTC BD8CKF OM20CQ.webp",
       "size": 40458
     }
   ],
   "🛰UMKA-1 RS40S": [
+    {
+      "name": "RS40S 2026-04-18 0226 UTC BD8CKF OM20CQ",
+      "date": "2026-04-18",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2026-04-18 0226 UTC BD8CKF OM20CQ.webp",
+      "size": 37142
+    },
     {
       "name": "RS40S 2026-03-08 0337 UTC BD8CKF OL19DL",
       "date": "2026-03-08",
