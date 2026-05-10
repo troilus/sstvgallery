@@ -237,6 +237,18 @@
   ],
   "🛰ISS": [
     {
+      "name": "ISS 2026-05-09 1327 UTC BD8CKF OM20CQ",
+      "date": "2026-05-09",
+      "url": "webpimages/🛰ISS/ISS 2026-05-09 1327 UTC BD8CKF OM20CQ.webp",
+      "size": 28442
+    },
+    {
+      "name": "ISS 2026-05-09 1330 UTC BD8CKF OM20CQ",
+      "date": "2026-05-09",
+      "url": "webpimages/🛰ISS/ISS 2026-05-09 1330 UTC BD8CKF OM20CQ.webp",
+      "size": 24472
+    },
+    {
       "name": "ISS 2026-05-08 1240 UTC BD8CKF OM20CQ",
       "date": "2026-05-08",
       "url": "webpimages/🛰ISS/ISS 2026-05-08 1240 UTC BD8CKF OM20CQ.webp",
@@ -580,13 +592,13 @@
   "🛰MANOZOND-1 RS49S": [
     {
       "name": "🛰RS49S 20250112 1354 UTC BD8CKF OM20CQ",
-      "date": "2026-05-08",
+      "date": "2026-05-10",
       "url": "webpimages/🛰MANOZOND-1 RS49S/🛰RS49S 20250112 1354 UTC BD8CKF OM20CQ.webp",
       "size": 40458
     },
     {
       "name": "🛰RS49S 20260419 0425 UTC BD8CKF OM20CQ",
-      "date": "2026-05-08",
+      "date": "2026-05-10",
       "url": "webpimages/🛰MANOZOND-1 RS49S/🛰RS49S 20260419 0425 UTC BD8CKF OM20CQ.webp",
       "size": 36300
     }
