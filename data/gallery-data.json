@@ -1,56 +1,48 @@
 {
-  "🛰MORDOVIA-IOT RS50S&🛰RUZAEVKA-390 RS44S": [
+  "🛰SONATE-2": [
     {
-      "name": "RS44SorRS50S 2024-12-11_14.30.14BD8CKF OM20CQ",
-      "date": "2024-12-11",
-      "url": "webpimages/🛰MORDOVIA-IOT RS50S&🛰RUZAEVKA-390 RS44S/RS44SorRS50S 2024-12-11_14.30.14BD8CKF OM20CQ.webp",
-      "size": 55360
+      "name": "SONATE-2 2026-03-07 0847 UTC OL19DG .bmp",
+      "date": "2026-03-07",
+      "url": "webpimages/🛰SONATE-2/SONATE-2 2026-03-07 0847 UTC OL19DG .bmp.webp",
+      "size": 54298
     },
     {
-      "name": "RS44SorRS50S 2024-12-11_14.33.45BD8CKF OM20CQ",
-      "date": "2024-12-11",
-      "url": "webpimages/🛰MORDOVIA-IOT RS50S&🛰RUZAEVKA-390 RS44S/RS44SorRS50S 2024-12-11_14.33.45BD8CKF OM20CQ.webp",
-      "size": 49140
+      "name": "SONATE-2 2026-03-07 0843 UTC OL19DG ",
+      "date": "2026-03-07",
+      "url": "webpimages/🛰SONATE-2/SONATE-2 2026-03-07 0843 UTC OL19DG .webp",
+      "size": 26510
     },
     {
-      "name": "RS44SorRS50S 2024-12-11_14.35.59BD8CKF OM20CQ",
-      "date": "2024-12-11",
-      "url": "webpimages/🛰MORDOVIA-IOT RS50S&🛰RUZAEVKA-390 RS44S/RS44SorRS50S 2024-12-11_14.35.59BD8CKF OM20CQ.webp",
-      "size": 45824
-    }
-  ],
-  "？": [
-    {
-      "name": "2025-01-01_14.12.19",
-      "date": "2025-01-01",
-      "url": "webpimages/？/2025-01-01_14.12.19.webp",
-      "size": 61332
+      "name": "SONATE-2 2025-12-07 0847 UTC BD8CKF OM20CQ 10°",
+      "date": "2025-12-07",
+      "url": "webpimages/🛰SONATE-2/SONATE-2 2025-12-07 0847 UTC BD8CKF OM20CQ 10°.webp",
+      "size": 38432
     },
     {
-      "name": "2025-01-01_14.13.09",
-      "date": "2025-01-01",
-      "url": "webpimages/？/2025-01-01_14.13.09.webp",
-      "size": 58324
+      "name": "SONATE-2 2025-02-15 0813 UTC BD8CKF OM20CQ",
+      "date": "2025-02-15",
+      "url": "webpimages/🛰SONATE-2/SONATE-2 2025-02-15 0813 UTC BD8CKF OM20CQ.webp",
+      "size": 50804
     },
     {
-      "name": "2025-01-01_14.10.39",
-      "date": "2025-01-01",
-      "url": "webpimages/？/2025-01-01_14.10.39.webp",
-      "size": 60318
+      "name": "SONATE-2 2024-11-30_15.13.13 BD8CKF OM20CQ",
+      "date": "2024-11-30",
+      "url": "webpimages/🛰SONATE-2/SONATE-2 2024-11-30_15.13.13 BD8CKF OM20CQ.webp",
+      "size": 34330
     }
   ],
   "🛰VIZARD-METEO RS38S": [
-    {
-      "name": "RS38S 2026-02-14 0333 UTC BD8CKF OL29OH",
-      "date": "2026-02-14",
-      "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2026-02-14 0333 UTC BD8CKF OL29OH.webp",
-      "size": 38980
-    },
     {
       "name": "RS38S 2026-02-14 0336 UTC BD8CKF OL29OH",
       "date": "2026-02-14",
       "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2026-02-14 0336 UTC BD8CKF OL29OH.webp",
       "size": 34198
+    },
+    {
+      "name": "RS38S 2026-02-14 0333 UTC BD8CKF OL29OH",
+      "date": "2026-02-14",
+      "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2026-02-14 0333 UTC BD8CKF OL29OH.webp",
+      "size": 38980
     },
     {
       "name": "RS38S 2025-12-10 1449 UTC BD8CKF OM20CQ",
@@ -65,6 +57,12 @@
       "size": 42270
     },
     {
+      "name": "RS38S 2025-12-07 1431 UTC BD8CKF OM20CQ 9°",
+      "date": "2025-12-07",
+      "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2025-12-07 1431 UTC BD8CKF OM20CQ 9°.webp",
+      "size": 50414
+    },
+    {
       "name": "RS38S 2025-12-07 1434 UTC BD8CKF OM20CQ 47°",
       "date": "2025-12-07",
       "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2025-12-07 1434 UTC BD8CKF OM20CQ 47°.webp",
@@ -75,12 +73,6 @@
       "date": "2025-12-07",
       "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2025-12-07 1436 UTC BD8CKF OM20CQ.webp",
       "size": 43352
-    },
-    {
-      "name": "RS38S 2025-12-07 1431 UTC BD8CKF OM20CQ 9°",
-      "date": "2025-12-07",
-      "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2025-12-07 1431 UTC BD8CKF OM20CQ 9°.webp",
-      "size": 50414
     },
     {
       "name": "RS38S 2025-12-06 1503 UTC BD8CKF OM20CQ 18°",
@@ -101,6 +93,12 @@
       "size": 26024
     },
     {
+      "name": "RS38S 2025-04-10_14.54.07 BD8CKF",
+      "date": "2025-04-10",
+      "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2025-04-10_14.54.07 BD8CKF.webp",
+      "size": 55748
+    },
+    {
       "name": "RS38S 2025-04-10 1435 UTC BD8CKF OM20CQ",
       "date": "2025-04-10",
       "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2025-04-10 1435 UTC BD8CKF OM20CQ.webp",
@@ -119,10 +117,10 @@
       "size": 56124
     },
     {
-      "name": "RS38S 2025-04-10_14.54.07 BD8CKF",
-      "date": "2025-04-10",
-      "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2025-04-10_14.54.07 BD8CKF.webp",
-      "size": 55748
+      "name": "RS38S 2025-02-28 1315 UTC BD8CKF OM20CQ",
+      "date": "2025-02-28",
+      "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2025-02-28 1315 UTC BD8CKF OM20CQ.webp",
+      "size": 50088
     },
     {
       "name": "RS38S 2025-02-28 1311 UTC BD8CKF OM20CQ",
@@ -131,22 +129,10 @@
       "size": 56074
     },
     {
-      "name": "RS38S 2025-02-28 1315 UTC BD8CKF OM20CQ",
-      "date": "2025-02-28",
-      "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2025-02-28 1315 UTC BD8CKF OM20CQ.webp",
-      "size": 50088
-    },
-    {
       "name": "RS38S 2025-02-28 1313 UTC BD8CKF OM20CQ",
       "date": "2025-02-28",
       "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2025-02-28 1313 UTC BD8CKF OM20CQ.webp",
       "size": 25176
-    },
-    {
-      "name": "RS38S 2025-02-08 1419 UTC BD8CKF OM20CQ",
-      "date": "2025-02-08",
-      "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2025-02-08 1419 UTC BD8CKF OM20CQ.webp",
-      "size": 44476
     },
     {
       "name": "RS38S 2025-02-08 1421 UTC BD8CKF OM20CQ",
@@ -155,22 +141,28 @@
       "size": 30454
     },
     {
+      "name": "RS38S 2025-02-08 1419 UTC BD8CKF OM20CQ",
+      "date": "2025-02-08",
+      "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2025-02-08 1419 UTC BD8CKF OM20CQ.webp",
+      "size": 44476
+    },
+    {
       "name": "RS38S 2025-02-08 1423 UTC BD8CKF OM20CQ",
       "date": "2025-02-08",
       "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2025-02-08 1423 UTC BD8CKF OM20CQ.webp",
       "size": 44690
     },
     {
-      "name": "RS38S 2025-01-28 1419 UTC BD8CKF OL29PI",
-      "date": "2025-01-28",
-      "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2025-01-28 1419 UTC BD8CKF OL29PI.webp",
-      "size": 32706
-    },
-    {
       "name": "RS38S 2025-01-28 1417 UTC BD8CKF OL29PI",
       "date": "2025-01-28",
       "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2025-01-28 1417 UTC BD8CKF OL29PI.webp",
       "size": 52090
+    },
+    {
+      "name": "RS38S 2025-01-28 1419 UTC BD8CKF OL29PI",
+      "date": "2025-01-28",
+      "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2025-01-28 1419 UTC BD8CKF OL29PI.webp",
+      "size": 32706
     },
     {
       "name": "RS38S 2025-01-12 1401 UTC BD8CKF OM20CQ",
@@ -191,16 +183,16 @@
       "size": 35420
     },
     {
-      "name": "RS38S 2025-01-08 1336 UTC BD8CKF OM20CQ",
-      "date": "2025-01-08",
-      "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2025-01-08 1336 UTC BD8CKF OM20CQ.webp",
-      "size": 44220
-    },
-    {
       "name": "RS38S 2025-01-08 1332 UTC BD8CKF OM20CQ",
       "date": "2025-01-08",
       "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2025-01-08 1332 UTC BD8CKF OM20CQ.webp",
       "size": 22650
+    },
+    {
+      "name": "RS38S 2025-01-08 1336 UTC BD8CKF OM20CQ",
+      "date": "2025-01-08",
+      "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2025-01-08 1336 UTC BD8CKF OM20CQ.webp",
+      "size": 44220
     },
     {
       "name": "RS38S 2025-01-08 1334 UTC BD8CKF OM20CQ",
@@ -221,22 +213,16 @@
       "size": 47356
     },
     {
-      "name": "RS38S 2024-12-30 1417 UTC BD8CKF OM20CQ",
-      "date": "2024-12-30",
-      "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2024-12-30 1417 UTC BD8CKF OM20CQ.webp",
-      "size": 56890
-    },
-    {
       "name": "RS38S 2024-12-30 14.17 UTC BD8CKF OM20CQ(2)",
       "date": "2024-12-30",
       "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2024-12-30 14.17 UTC BD8CKF OM20CQ(2).webp",
       "size": 41108
     },
     {
-      "name": "RS38S 2024-04-12~2024-04-13 BD8CKF OM20CQ",
-      "date": "2024-04-12",
-      "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2024-04-12~2024-04-13 BD8CKF OM20CQ.webp",
-      "size": 43202
+      "name": "RS38S 2024-12-30 1417 UTC BD8CKF OM20CQ",
+      "date": "2024-12-30",
+      "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2024-12-30 1417 UTC BD8CKF OM20CQ.webp",
+      "size": 56890
     },
     {
       "name": "RS38S 2024-04-12~2024-04-13 BD8CKF OM20CQ(2)",
@@ -245,131 +231,31 @@
       "size": 46420
     },
     {
+      "name": "RS38S 2024-04-12~2024-04-13 BD8CKF OM20CQ",
+      "date": "2024-04-12",
+      "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2024-04-12~2024-04-13 BD8CKF OM20CQ.webp",
+      "size": 43202
+    },
+    {
       "name": "RS38S 2024-04-12~2024-04-13 BD8CKF OM20CQ(3)",
       "date": "2024-04-12",
       "url": "webpimages/🛰VIZARD-METEO RS38S/RS38S 2024-04-12~2024-04-13 BD8CKF OM20CQ(3).webp",
       "size": 32270
     }
   ],
-  "🛰Hyperview-1G RS66S": [
-    {
-      "name": "RS66S 2025-10-18 0108 UTC BD8CKF OM20CQ",
-      "date": "2025-10-18",
-      "url": "webpimages/🛰Hyperview-1G RS66S/RS66S 2025-10-18 0108 UTC BD8CKF OM20CQ.webp",
-      "size": 43248
-    },
-    {
-      "name": "RS66S 2025-10-18 0105 UTC BD8CKF OM20CQ",
-      "date": "2025-10-18",
-      "url": "webpimages/🛰Hyperview-1G RS66S/RS66S 2025-10-18 0105 UTC BD8CKF OM20CQ.webp",
-      "size": 30694
-    },
-    {
-      "name": "RS66S 2025-10-18 0111 UTC BD8CKF OM20CQ",
-      "date": "2025-10-18",
-      "url": "webpimages/🛰Hyperview-1G RS66S/RS66S 2025-10-18 0111 UTC BD8CKF OM20CQ.webp",
-      "size": 58720
-    },
-    {
-      "name": "RS66S 2025-01-06_15.47.11 BD8CKF",
-      "date": "2025-01-06",
-      "url": "webpimages/🛰Hyperview-1G RS66S/RS66S 2025-01-06_15.47.11 BD8CKF.webp",
-      "size": 61944
-    },
-    {
-      "name": "RS66S 2025-01-06 1432 UTC BD8CKF OM20CQ",
-      "date": "2025-01-06",
-      "url": "webpimages/🛰Hyperview-1G RS66S/RS66S 2025-01-06 1432 UTC BD8CKF OM20CQ.webp",
-      "size": 49116
-    },
-    {
-      "name": "RS66S 2025-01-05 0156 UTC BD8CKF OM20CQ",
-      "date": "2025-01-05",
-      "url": "webpimages/🛰Hyperview-1G RS66S/RS66S 2025-01-05 0156 UTC BD8CKF OM20CQ.webp",
-      "size": 58100
-    },
-    {
-      "name": "RS66S 2025-01-05 0154 UTC BD8CKF OM20CQ",
-      "date": "2025-01-05",
-      "url": "webpimages/🛰Hyperview-1G RS66S/RS66S 2025-01-05 0154 UTC BD8CKF OM20CQ.webp",
-      "size": 25054
-    },
-    {
-      "name": "RS66S 2025-01-05_02.07.08 BD8CKF OM20CQ",
-      "date": "2025-01-05",
-      "url": "webpimages/🛰Hyperview-1G RS66S/RS66S 2025-01-05_02.07.08 BD8CKF OM20CQ.webp",
-      "size": 35100
-    },
-    {
-      "name": "RS66S 2025-01-05 0151 UTC BD8CKF OM20CQ",
-      "date": "2025-01-05",
-      "url": "webpimages/🛰Hyperview-1G RS66S/RS66S 2025-01-05 0151 UTC BD8CKF OM20CQ.webp",
-      "size": 32716
-    }
-  ],
-  "🛰MONITOR-3 RS58S": [
-    {
-      "name": "RS58S 2026-04-10 1400 UTC BD8CKF OM20CQ",
-      "date": "2026-04-10",
-      "url": "webpimages/🛰MONITOR-3 RS58S/RS58S 2026-04-10 1400 UTC BD8CKF OM20CQ.webp",
-      "size": 22238
-    },
-    {
-      "name": "RS58S 2026-04-10 1402 UTC BD8CKF OM20CQ",
-      "date": "2026-04-10",
-      "url": "webpimages/🛰MONITOR-3 RS58S/RS58S 2026-04-10 1402 UTC BD8CKF OM20CQ.webp",
-      "size": 41998
-    },
-    {
-      "name": "RS58S 2026-03-09 1405 UTC BD8CKF OM20CQ",
-      "date": "2026-03-09",
-      "url": "webpimages/🛰MONITOR-3 RS58S/RS58S 2026-03-09 1405 UTC BD8CKF OM20CQ.webp",
-      "size": 22956
-    },
-    {
-      "name": "RS58S 2026-02-01 0308 UTC BD8CKF OM20CQ",
-      "date": "2026-02-01",
-      "url": "webpimages/🛰MONITOR-3 RS58S/RS58S 2026-02-01 0308 UTC BD8CKF OM20CQ.webp",
-      "size": 34272
-    },
-    {
-      "name": "RS58S 2026-02-01 0310 UTC BD8CKF OM20CQ",
-      "date": "2026-02-01",
-      "url": "webpimages/🛰MONITOR-3 RS58S/RS58S 2026-02-01 0310 UTC BD8CKF OM20CQ.webp",
-      "size": 23616
-    },
-    {
-      "name": "RS58S 2025-06-28 1407 UTC BD8CKF OM20CQ",
-      "date": "2025-06-28",
-      "url": "webpimages/🛰MONITOR-3 RS58S/RS58S 2025-06-28 1407 UTC BD8CKF OM20CQ.webp",
-      "size": 25090
-    },
-    {
-      "name": "RS58S 2025-06-28 1410 UTC BD8CKF OM20CQ",
-      "date": "2025-06-28",
-      "url": "webpimages/🛰MONITOR-3 RS58S/RS58S 2025-06-28 1410 UTC BD8CKF OM20CQ.webp",
-      "size": 30036
-    },
-    {
-      "name": "RS58S 2025-01-27 0230 UTC BD8CKF OL29OH",
-      "date": "2025-01-27",
-      "url": "webpimages/🛰MONITOR-3 RS58S/RS58S 2025-01-27 0230 UTC BD8CKF OL29OH.webp",
-      "size": 31350
-    },
-    {
-      "name": "RS58S 2025-01-04 0248 UTC BD8CKF OM20CQ",
-      "date": "2025-01-04",
-      "url": "webpimages/🛰MONITOR-3 RS58S/RS58S 2025-01-04 0248 UTC BD8CKF OM20CQ.webp",
-      "size": 29016
-    },
-    {
-      "name": "RS58S 2025-01-04 0231 UTC BD8CKF OM20CQ",
-      "date": "2025-01-04",
-      "url": "webpimages/🛰MONITOR-3 RS58S/RS58S 2025-01-04 0231 UTC BD8CKF OM20CQ.webp",
-      "size": 54642
-    }
-  ],
   "🛰ISS": [
+    {
+      "name": "ISS 2026-10-02 1013 UTC BD8CKF OL29PI",
+      "date": "2026-10-02",
+      "url": "webpimages/🛰ISS/ISS 2026-10-02 1013 UTC BD8CKF OL29PI.webp",
+      "size": 27968
+    },
+    {
+      "name": "ISS 2026-10-02 1010 UTC BD8CKF OL29PI",
+      "date": "2026-10-02",
+      "url": "webpimages/🛰ISS/ISS 2026-10-02 1010 UTC BD8CKF OL29PI.webp",
+      "size": 24090
+    },
     {
       "name": "ISS 2026-05-09 1327 UTC BD8CKF OM20CQ",
       "date": "2026-05-09",
@@ -395,6 +281,12 @@
       "size": 31958
     },
     {
+      "name": "ISS 2026-04-11 0744 UTC BD8CKF OM20CQ",
+      "date": "2026-04-11",
+      "url": "webpimages/🛰ISS/ISS 2026-04-11 0744 UTC BD8CKF OM20CQ.webp",
+      "size": 20394
+    },
+    {
       "name": "ISS 2026-04-11 0738 UTC BD8CKF OM20CQ",
       "date": "2026-04-11",
       "url": "webpimages/🛰ISS/ISS 2026-04-11 0738 UTC BD8CKF OM20CQ.webp",
@@ -405,12 +297,6 @@
       "date": "2026-04-11",
       "url": "webpimages/🛰ISS/ISS 2026-04-11 0741 UTC BD8CKF OM20CQ.webp",
       "size": 18890
-    },
-    {
-      "name": "ISS 2026-04-11 0744 UTC BD8CKF OM20CQ",
-      "date": "2026-04-11",
-      "url": "webpimages/🛰ISS/ISS 2026-04-11 0744 UTC BD8CKF OM20CQ.webp",
-      "size": 20394
     },
     {
       "name": "ISS 2025-10-06 1012 UTC BD8CKF OM20BQ",
@@ -443,22 +329,16 @@
       "size": 95160
     },
     {
-      "name": "ISS 2025-07-19 0856 UTC BD8CKF OM20CQ",
-      "date": "2025-07-19",
-      "url": "webpimages/🛰ISS/ISS 2025-07-19 0856 UTC BD8CKF OM20CQ.webp",
-      "size": 96488
-    },
-    {
       "name": "ISS 2025-07-19 0852 UTC BD8CKF OM20CQ",
       "date": "2025-07-19",
       "url": "webpimages/🛰ISS/ISS 2025-07-19 0852 UTC BD8CKF OM20CQ.webp",
       "size": 219752
     },
     {
-      "name": "ISS 2025-07-15 1027 UTC BD8CKF OM20CR",
-      "date": "2025-07-15",
-      "url": "webpimages/🛰ISS/ISS 2025-07-15 1027 UTC BD8CKF OM20CR.webp",
-      "size": 122844
+      "name": "ISS 2025-07-19 0856 UTC BD8CKF OM20CQ",
+      "date": "2025-07-19",
+      "url": "webpimages/🛰ISS/ISS 2025-07-19 0856 UTC BD8CKF OM20CQ.webp",
+      "size": 96488
     },
     {
       "name": "ISS 2025-07-15 1031 UTC BD8CKF OM20CR",
@@ -471,6 +351,12 @@
       "date": "2025-07-15",
       "url": "webpimages/🛰ISS/ISS 2025-07-15 1035 UTC BD8CKF OM20CR.webp",
       "size": 90768
+    },
+    {
+      "name": "ISS 2025-07-15 1027 UTC BD8CKF OM20CR",
+      "date": "2025-07-15",
+      "url": "webpimages/🛰ISS/ISS 2025-07-15 1027 UTC BD8CKF OM20CR.webp",
+      "size": 122844
     },
     {
       "name": "ISS 2025-05-11 1221 UTC BD8CKF OM20CQ",
@@ -521,10 +407,10 @@
       "size": 99102
     },
     {
-      "name": "ISS 2024-12-28 0045 UTC BD8CKF OM20CQ(2)",
+      "name": "ISS 2024-12-28 0221 UTC BD8CKF OM20CQ(2)",
       "date": "2024-12-28",
-      "url": "webpimages/🛰ISS/ISS 2024-12-28 0045 UTC BD8CKF OM20CQ(2).webp",
-      "size": 163328
+      "url": "webpimages/🛰ISS/ISS 2024-12-28 0221 UTC BD8CKF OM20CQ(2).webp",
+      "size": 121870
     },
     {
       "name": "ISS 2024-12-28 0221 UTC BD8CKF OM20CQ",
@@ -533,16 +419,16 @@
       "size": 43556
     },
     {
+      "name": "ISS 2024-12-28 0045 UTC BD8CKF OM20CQ(2)",
+      "date": "2024-12-28",
+      "url": "webpimages/🛰ISS/ISS 2024-12-28 0045 UTC BD8CKF OM20CQ(2).webp",
+      "size": 163328
+    },
+    {
       "name": "ISS 2024-12-28 0045 UTC BD8CKF OM20CQ",
       "date": "2024-12-28",
       "url": "webpimages/🛰ISS/ISS 2024-12-28 0045 UTC BD8CKF OM20CQ.webp",
       "size": 206866
-    },
-    {
-      "name": "ISS 2024-12-28 0221 UTC BD8CKF OM20CQ(2)",
-      "date": "2024-12-28",
-      "url": "webpimages/🛰ISS/ISS 2024-12-28 0221 UTC BD8CKF OM20CQ(2).webp",
-      "size": 121870
     },
     {
       "name": "ISS 2024-11-12 BD8CKF OM20CQ",
@@ -551,202 +437,100 @@
       "size": 165588
     }
   ],
-  "🛰SONATE-2": [
+  "🛰MORDOVIA-IOT RS50S&🛰RUZAEVKA-390 RS44S": [
     {
-      "name": "SONATE-2 2026-03-07 0847 UTC OL19DG .bmp",
-      "date": "2026-03-07",
-      "url": "webpimages/🛰SONATE-2/SONATE-2 2026-03-07 0847 UTC OL19DG .bmp.webp",
-      "size": 54298
+      "name": "RS44SorRS50S 2024-12-11_14.33.45BD8CKF OM20CQ",
+      "date": "2024-12-11",
+      "url": "webpimages/🛰MORDOVIA-IOT RS50S&🛰RUZAEVKA-390 RS44S/RS44SorRS50S 2024-12-11_14.33.45BD8CKF OM20CQ.webp",
+      "size": 49140
     },
     {
-      "name": "SONATE-2 2026-03-07 0843 UTC OL19DG ",
-      "date": "2026-03-07",
-      "url": "webpimages/🛰SONATE-2/SONATE-2 2026-03-07 0843 UTC OL19DG .webp",
-      "size": 26510
+      "name": "RS44SorRS50S 2024-12-11_14.35.59BD8CKF OM20CQ",
+      "date": "2024-12-11",
+      "url": "webpimages/🛰MORDOVIA-IOT RS50S&🛰RUZAEVKA-390 RS44S/RS44SorRS50S 2024-12-11_14.35.59BD8CKF OM20CQ.webp",
+      "size": 45824
     },
     {
-      "name": "SONATE-2 2025-12-07 0847 UTC BD8CKF OM20CQ 10°",
-      "date": "2025-12-07",
-      "url": "webpimages/🛰SONATE-2/SONATE-2 2025-12-07 0847 UTC BD8CKF OM20CQ 10°.webp",
-      "size": 38432
-    },
-    {
-      "name": "SONATE-2 2025-02-15 0813 UTC BD8CKF OM20CQ",
-      "date": "2025-02-15",
-      "url": "webpimages/🛰SONATE-2/SONATE-2 2025-02-15 0813 UTC BD8CKF OM20CQ.webp",
-      "size": 50804
-    },
-    {
-      "name": "SONATE-2 2024-11-30_15.13.13 BD8CKF OM20CQ",
-      "date": "2024-11-30",
-      "url": "webpimages/🛰SONATE-2/SONATE-2 2024-11-30_15.13.13 BD8CKF OM20CQ.webp",
-      "size": 34330
+      "name": "RS44SorRS50S 2024-12-11_14.30.14BD8CKF OM20CQ",
+      "date": "2024-12-11",
+      "url": "webpimages/🛰MORDOVIA-IOT RS50S&🛰RUZAEVKA-390 RS44S/RS44SorRS50S 2024-12-11_14.30.14BD8CKF OM20CQ.webp",
+      "size": 55360
     }
   ],
-  "🛰UTMN-2 RS27S": [
+  "🛰MONITOR-3 RS58S": [
     {
-      "name": "RS27S 2026-02-13 1503 UTC BD8CKF OL29OH",
-      "date": "2026-02-13",
-      "url": "webpimages/🛰UTMN-2 RS27S/RS27S 2026-02-13 1503 UTC BD8CKF OL29OH.webp",
-      "size": 46378
+      "name": "RS58S 2026-04-10 1402 UTC BD8CKF OM20CQ",
+      "date": "2026-04-10",
+      "url": "webpimages/🛰MONITOR-3 RS58S/RS58S 2026-04-10 1402 UTC BD8CKF OM20CQ.webp",
+      "size": 41998
     },
     {
-      "name": "RS27S 2025-05-11_14.45.07 BD8CKF",
-      "date": "2025-05-11",
-      "url": "webpimages/🛰UTMN-2 RS27S/RS27S 2025-05-11_14.45.07 BD8CKF.webp",
-      "size": 201784
+      "name": "RS58S 2026-04-10 1400 UTC BD8CKF OM20CQ",
+      "date": "2026-04-10",
+      "url": "webpimages/🛰MONITOR-3 RS58S/RS58S 2026-04-10 1400 UTC BD8CKF OM20CQ.webp",
+      "size": 22238
     },
     {
-      "name": "RS27S 2025-01-04 0238 UTC BD8CKF OM20CQ",
+      "name": "RS58S 2026-03-09 1405 UTC BD8CKF OM20CQ",
+      "date": "2026-03-09",
+      "url": "webpimages/🛰MONITOR-3 RS58S/RS58S 2026-03-09 1405 UTC BD8CKF OM20CQ.webp",
+      "size": 22956
+    },
+    {
+      "name": "RS58S 2026-02-01 0310 UTC BD8CKF OM20CQ",
+      "date": "2026-02-01",
+      "url": "webpimages/🛰MONITOR-3 RS58S/RS58S 2026-02-01 0310 UTC BD8CKF OM20CQ.webp",
+      "size": 23616
+    },
+    {
+      "name": "RS58S 2026-02-01 0308 UTC BD8CKF OM20CQ",
+      "date": "2026-02-01",
+      "url": "webpimages/🛰MONITOR-3 RS58S/RS58S 2026-02-01 0308 UTC BD8CKF OM20CQ.webp",
+      "size": 34272
+    },
+    {
+      "name": "RS58S 2025-06-28 1410 UTC BD8CKF OM20CQ",
+      "date": "2025-06-28",
+      "url": "webpimages/🛰MONITOR-3 RS58S/RS58S 2025-06-28 1410 UTC BD8CKF OM20CQ.webp",
+      "size": 30036
+    },
+    {
+      "name": "RS58S 2025-06-28 1407 UTC BD8CKF OM20CQ",
+      "date": "2025-06-28",
+      "url": "webpimages/🛰MONITOR-3 RS58S/RS58S 2025-06-28 1407 UTC BD8CKF OM20CQ.webp",
+      "size": 25090
+    },
+    {
+      "name": "RS58S 2025-01-27 0230 UTC BD8CKF OL29OH",
+      "date": "2025-01-27",
+      "url": "webpimages/🛰MONITOR-3 RS58S/RS58S 2025-01-27 0230 UTC BD8CKF OL29OH.webp",
+      "size": 31350
+    },
+    {
+      "name": "RS58S 2025-01-04 0231 UTC BD8CKF OM20CQ",
       "date": "2025-01-04",
-      "url": "webpimages/🛰UTMN-2 RS27S/RS27S 2025-01-04 0238 UTC BD8CKF OM20CQ.webp",
-      "size": 40376
+      "url": "webpimages/🛰MONITOR-3 RS58S/RS58S 2025-01-04 0231 UTC BD8CKF OM20CQ.webp",
+      "size": 54642
     },
     {
-      "name": "RS27S 2025-01-04 0236 UTC BD8CKF OM20CQ",
+      "name": "RS58S 2025-01-04 0248 UTC BD8CKF OM20CQ",
       "date": "2025-01-04",
-      "url": "webpimages/🛰UTMN-2 RS27S/RS27S 2025-01-04 0236 UTC BD8CKF OM20CQ.webp",
-      "size": 36514
-    }
-  ],
-  "🛰MANOZOND-1 RS49S": [
-    {
-      "name": "🛰RS49S 20250112 1354 UTC BD8CKF OM20CQ",
-      "date": "2026-09-04",
-      "url": "webpimages/🛰MANOZOND-1 RS49S/🛰RS49S 20250112 1354 UTC BD8CKF OM20CQ.webp",
-      "size": 40458
-    },
-    {
-      "name": "🛰RS49S 20260419 0425 UTC BD8CKF OM20CQ",
-      "date": "2026-09-04",
-      "url": "webpimages/🛰MANOZOND-1 RS49S/🛰RS49S 20260419 0425 UTC BD8CKF OM20CQ.webp",
-      "size": 36300
-    }
-  ],
-  "🛰SAKHACUBE-CHOLBON RS18S": [
-    {
-      "name": "RS18S 2026-09-02 1508 UTC BD8CKF OM20CQ",
-      "date": "2026-09-02",
-      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-09-02 1508 UTC BD8CKF OM20CQ.webp",
-      "size": 22868
-    },
-    {
-      "name": "RS18S 2026-09-02 1511 UTC BD8CKF OM20CQ",
-      "date": "2026-09-02",
-      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-09-02 1511 UTC BD8CKF OM20CQ.webp",
-      "size": 22180
-    },
-    {
-      "name": "RS18S 2026-07-30 1420 UTC BD8CKF PM06DG",
-      "date": "2026-07-30",
-      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-07-30 1420 UTC BD8CKF PM06DG.webp",
-      "size": 24480
-    },
-    {
-      "name": "RS18S 2026-07-28 1506 UTC BD8CKF OM20CQ",
-      "date": "2026-07-28",
-      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-07-28 1506 UTC BD8CKF OM20CQ.webp",
-      "size": 25194
-    },
-    {
-      "name": "RS18S 2026-07-28 1503 UTC BD8CKF OM20CQ",
-      "date": "2026-07-28",
-      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-07-28 1503 UTC BD8CKF OM20CQ.webp",
-      "size": 34796
-    },
-    {
-      "name": "RS18S 2026-06-01 1441 UTC BD8CKF OM20CQ",
-      "date": "2026-06-01",
-      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-06-01 1441 UTC BD8CKF OM20CQ.webp",
-      "size": 34876
-    },
-    {
-      "name": "RS18S 2026-06-01 1444 UTC BD8CKF OM20CQ",
-      "date": "2026-06-01",
-      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-06-01 1444 UTC BD8CKF OM20CQ.webp",
-      "size": 28442
-    },
-    {
-      "name": "RS18S 2026-04-25 1534 UTC BD8CKF OM20CQ",
-      "date": "2026-04-25",
-      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-04-25 1534 UTC BD8CKF OM20CQ.webp",
-      "size": 42190
-    },
-    {
-      "name": "RS18S 2026-04-12 0328 UTC BD8CKF OM20BQ",
-      "date": "2026-04-12",
-      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-04-12 0328 UTC BD8CKF OM20BQ.webp",
-      "size": 46334
-    },
-    {
-      "name": "2026-04-12 0328 UTC BD8CKF OM20BQ",
-      "date": "2026-04-12",
-      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/2026-04-12 0328 UTC BD8CKF OM20BQ.webp",
-      "size": 46334
-    },
-    {
-      "name": "RS18S 2026-04-12 0330 UTC BD8CKF OM20BQ.bmp",
-      "date": "2026-04-12",
-      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-04-12 0330 UTC BD8CKF OM20BQ.bmp.webp",
-      "size": 43614
-    },
-    {
-      "name": "2026-04-12 0330 UTC BD8CKF OM20BQ.bmp",
-      "date": "2026-04-12",
-      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/2026-04-12 0330 UTC BD8CKF OM20BQ.bmp.webp",
-      "size": 43614
-    },
-    {
-      "name": "RS18S 2026-03-09 1458 UTC BD8CKF OMCQ",
-      "date": "2026-03-09",
-      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-03-09 1458 UTC BD8CKF OMCQ.webp",
-      "size": 14046
-    },
-    {
-      "name": "RS18S 2026-03-09 1458 UTC BD8CKF OM20CQ",
-      "date": "2026-03-09",
-      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-03-09 1458 UTC BD8CKF OM20CQ.webp",
-      "size": 14046
-    },
-    {
-      "name": "RS18S 2026-03-09 1455 UTC BD8CKF OMCQ",
-      "date": "2026-03-09",
-      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-03-09 1455 UTC BD8CKF OMCQ.webp",
-      "size": 28552
-    },
-    {
-      "name": "RS18S 2026-03-09 1455 UTC BD8CKF OM20CQ",
-      "date": "2026-03-09",
-      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-03-09 1455 UTC BD8CKF OM20CQ.webp",
-      "size": 28552
-    },
-    {
-      "name": "RS18S 2026-02-16 0340 UTC BD8CKF OL29OH",
-      "date": "2026-02-16",
-      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-02-16 0340 UTC BD8CKF OL29OH.webp",
-      "size": 24214
-    }
-  ],
-  "🛰QMR-KWT-2 RS95S": [
-    {
-      "name": "RS95S 2026-02-25 1542 UTC BD8CKF OM20CQ 30°",
-      "date": "2026-02-25",
-      "url": "webpimages/🛰QMR-KWT-2 RS95S/RS95S 2026-02-25 1542 UTC BD8CKF OM20CQ 30°.webp",
-      "size": 52192
+      "url": "webpimages/🛰MONITOR-3 RS58S/RS58S 2025-01-04 0248 UTC BD8CKF OM20CQ.webp",
+      "size": 29016
     }
   ],
   "🛰UMKA-1 RS40S": [
-    {
-      "name": "RS40S 2026-08-25 1331 UTC BD8CKF OM20CQ",
-      "date": "2026-08-25",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2026-08-25 1331 UTC BD8CKF OM20CQ.webp",
-      "size": 20338
-    },
     {
       "name": "RS40S 2026-08-25 13341 UTC BD8CKF OM20CQ",
       "date": "2026-08-25",
       "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2026-08-25 13341 UTC BD8CKF OM20CQ.webp",
       "size": 23730
+    },
+    {
+      "name": "RS40S 2026-08-25 1331 UTC BD8CKF OM20CQ",
+      "date": "2026-08-25",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2026-08-25 1331 UTC BD8CKF OM20CQ.webp",
+      "size": 20338
     },
     {
       "name": "RS40S 2026-07-20 1404 UTC BD8CKF OM20CQ",
@@ -755,16 +539,16 @@
       "size": 8276
     },
     {
-      "name": "RS40S 2026-04-25 1355 UTC BD8CKF OM20CQ",
-      "date": "2026-04-25",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2026-04-25 1355 UTC BD8CKF OM20CQ.webp",
-      "size": 49320
-    },
-    {
       "name": "RS40S 2026-04-25 1357 UTC BD8CKF OM20CQ",
       "date": "2026-04-25",
       "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2026-04-25 1357 UTC BD8CKF OM20CQ.webp",
       "size": 28934
+    },
+    {
+      "name": "RS40S 2026-04-25 1355 UTC BD8CKF OM20CQ",
+      "date": "2026-04-25",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2026-04-25 1355 UTC BD8CKF OM20CQ.webp",
+      "size": 49320
     },
     {
       "name": "RS40S 2026-04-18 0226 UTC BD8CKF OM20CQ",
@@ -779,16 +563,16 @@
       "size": 47746
     },
     {
-      "name": "RS40S 2026-02-14 0209 UTC BD8CKF OL29OH",
-      "date": "2026-02-14",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2026-02-14 0209 UTC BD8CKF OL29OH.webp",
-      "size": 26848
-    },
-    {
       "name": "RS40S 2026-02-14 0205 UTC BD8CKF OL29OH",
       "date": "2026-02-14",
       "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2026-02-14 0205 UTC BD8CKF OL29OH.webp",
       "size": 22470
+    },
+    {
+      "name": "RS40S 2026-02-14 0209 UTC BD8CKF OL29OH",
+      "date": "2026-02-14",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2026-02-14 0209 UTC BD8CKF OL29OH.webp",
+      "size": 26848
     },
     {
       "name": "RS40S 2026-02-08 0212 UTC BD8CKF OM74TK",
@@ -809,16 +593,16 @@
       "size": 44800
     },
     {
-      "name": "RS40S 2026-01-10 1441 UTC BD8CKF OM20CQ 24°",
-      "date": "2026-01-10",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2026-01-10 1441 UTC BD8CKF OM20CQ 24°.webp",
-      "size": 33552
-    },
-    {
       "name": "RS40S 2026-01-10 1443 UTC BD8CKF OM20CQ 13°",
       "date": "2026-01-10",
       "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2026-01-10 1443 UTC BD8CKF OM20CQ 13°.webp",
       "size": 27310
+    },
+    {
+      "name": "RS40S 2026-01-10 1441 UTC BD8CKF OM20CQ 24°",
+      "date": "2026-01-10",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2026-01-10 1441 UTC BD8CKF OM20CQ 24°.webp",
+      "size": 33552
     },
     {
       "name": "RS40S 2026-01-10 1439 UTC BD8CKF OM20CQ 15°",
@@ -869,22 +653,16 @@
       "size": 31636
     },
     {
-      "name": "RS40S 2025-11-02 1422 UTC BD8CKF OM20CQ",
-      "date": "2025-11-02",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-11-02 1422 UTC BD8CKF OM20CQ.webp",
-      "size": 14098
-    },
-    {
       "name": "RS40S 2025-11-02 1418 UTC BD8CKF OM20CQ",
       "date": "2025-11-02",
       "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-11-02 1418 UTC BD8CKF OM20CQ.webp",
       "size": 19394
     },
     {
-      "name": "RS40S 2025-10-18 0252 UTC BD8CKF OM20CR",
-      "date": "2025-10-18",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-10-18 0252 UTC BD8CKF OM20CR.webp",
-      "size": 29364
+      "name": "RS40S 2025-11-02 1422 UTC BD8CKF OM20CQ",
+      "date": "2025-11-02",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-11-02 1422 UTC BD8CKF OM20CQ.webp",
+      "size": 14098
     },
     {
       "name": "RS40S 2025-10-18 0249 UTC BD8CKF OM20CR",
@@ -893,16 +671,22 @@
       "size": 24122
     },
     {
-      "name": "RS40S 2025-10-11 1343 UTC BD8CKF OM20CQ",
-      "date": "2025-10-11",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-10-11 1343 UTC BD8CKF OM20CQ.webp",
-      "size": 23704
+      "name": "RS40S 2025-10-18 0252 UTC BD8CKF OM20CR",
+      "date": "2025-10-18",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-10-18 0252 UTC BD8CKF OM20CR.webp",
+      "size": 29364
     },
     {
       "name": "RS40S 2025-10-11 1340 UTC BD8CKF OM20CQ",
       "date": "2025-10-11",
       "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-10-11 1340 UTC BD8CKF OM20CQ.webp",
       "size": 30500
+    },
+    {
+      "name": "RS40S 2025-10-11 1343 UTC BD8CKF OM20CQ",
+      "date": "2025-10-11",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-10-11 1343 UTC BD8CKF OM20CQ.webp",
+      "size": 23704
     },
     {
       "name": "RS40S 2025-10-11 1337 UTC BD8CKF OM20CQ",
@@ -941,22 +725,16 @@
       "size": 37224
     },
     {
-      "name": "RS40S 2025-08-30 1433 UTC BD8CKF OM20CQ 7°",
-      "date": "2025-08-30",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-08-30 1433 UTC BD8CKF OM20CQ 7°.webp",
-      "size": 39386
-    },
-    {
-      "name": "RS40S 2025-08-30 1428 UTC BD8CKF OM20CQ 19°",
-      "date": "2025-08-30",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-08-30 1428 UTC BD8CKF OM20CQ 19°.webp",
-      "size": 26518
-    },
-    {
       "name": "RS40S 2025-08-30 1425 UTC BD8CKF OM20CQ 4°",
       "date": "2025-08-30",
       "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-08-30 1425 UTC BD8CKF OM20CQ 4°.webp",
       "size": 40470
+    },
+    {
+      "name": "RS40S 2025-08-30 1433 UTC BD8CKF OM20CQ 7°",
+      "date": "2025-08-30",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-08-30 1433 UTC BD8CKF OM20CQ 7°.webp",
+      "size": 39386
     },
     {
       "name": "RS40S 2025-08-30 1430 UTC BD8CKF OM20CQ 29°",
@@ -965,22 +743,10 @@
       "size": 25558
     },
     {
-      "name": "RS40S 2025-08-09 1443 UTC BD8CKF OM20CQ 7°",
-      "date": "2025-08-09",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-08-09 1443 UTC BD8CKF OM20CQ 7°.webp",
-      "size": 29874
-    },
-    {
-      "name": "RS40S 2025-08-09 1450 UTC BD8CKF OM20CQ 2°",
-      "date": "2025-08-09",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-08-09 1450 UTC BD8CKF OM20CQ 2°.webp",
-      "size": 39214
-    },
-    {
-      "name": "RS40S 2025-08-09_15.05.58 BD8CKF",
-      "date": "2025-08-09",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-08-09_15.05.58 BD8CKF.webp",
-      "size": 23812
+      "name": "RS40S 2025-08-30 1428 UTC BD8CKF OM20CQ 19°",
+      "date": "2025-08-30",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-08-30 1428 UTC BD8CKF OM20CQ 19°.webp",
+      "size": 26518
     },
     {
       "name": "RS40S 2025-08-09 1445 UTC BD8CKF OM20CQ 17°",
@@ -989,10 +755,22 @@
       "size": 13446
     },
     {
-      "name": "RS40S 2025-06-28 1329 UTC BD8CKF OM20CQ",
-      "date": "2025-06-28",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-06-28 1329 UTC BD8CKF OM20CQ.webp",
-      "size": 33410
+      "name": "RS40S 2025-08-09 1450 UTC BD8CKF OM20CQ 2°",
+      "date": "2025-08-09",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-08-09 1450 UTC BD8CKF OM20CQ 2°.webp",
+      "size": 39214
+    },
+    {
+      "name": "RS40S 2025-08-09 1443 UTC BD8CKF OM20CQ 7°",
+      "date": "2025-08-09",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-08-09 1443 UTC BD8CKF OM20CQ 7°.webp",
+      "size": 29874
+    },
+    {
+      "name": "RS40S 2025-08-09_15.05.58 BD8CKF",
+      "date": "2025-08-09",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-08-09_15.05.58 BD8CKF.webp",
+      "size": 23812
     },
     {
       "name": "RS40S 2025-06-28 1331 UTC BD8CKF OM20CQ",
@@ -1001,22 +779,28 @@
       "size": 29934
     },
     {
+      "name": "RS40S 2025-06-28 1329 UTC BD8CKF OM20CQ",
+      "date": "2025-06-28",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-06-28 1329 UTC BD8CKF OM20CQ.webp",
+      "size": 33410
+    },
+    {
       "name": "RS40S 2025-05-10 0254 UTC BD8CKF OM20CQ",
       "date": "2025-05-10",
       "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-05-10 0254 UTC BD8CKF OM20CQ.webp",
       "size": 47220
     },
     {
-      "name": "RS40S 2025-05-10_03.09.31 BD8CKF",
-      "date": "2025-05-10",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-05-10_03.09.31 BD8CKF.webp",
-      "size": 53346
-    },
-    {
       "name": "RS40S 2025-05-10 0252 UTC BD8CKF OM20CQ",
       "date": "2025-05-10",
       "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-05-10 0252 UTC BD8CKF OM20CQ.webp",
       "size": 39104
+    },
+    {
+      "name": "RS40S 2025-05-10_03.09.31 BD8CKF",
+      "date": "2025-05-10",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-05-10_03.09.31 BD8CKF.webp",
+      "size": 53346
     },
     {
       "name": "RS40S 2025-04-27 1314 UTC BD8CKF OM20CQ",
@@ -1043,10 +827,10 @@
       "size": 25720
     },
     {
-      "name": "RS40S 2025-04-13 1304 UTC BD8CKF OM20CQ",
+      "name": "RS40S 2025-04-13 0228 UTC BD8CKF OM20CQ",
       "date": "2025-04-13",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-04-13 1304 UTC BD8CKF OM20CQ.webp",
-      "size": 18920
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-04-13 0228 UTC BD8CKF OM20CQ.webp",
+      "size": 37784
     },
     {
       "name": "RS40S 2025-04-13 1307 UTC BD8CKF OM20CQ",
@@ -1055,10 +839,10 @@
       "size": 34710
     },
     {
-      "name": "RS40S 2025-04-13 0228 UTC BD8CKF OM20CQ",
+      "name": "RS40S 2025-04-13 1304 UTC BD8CKF OM20CQ",
       "date": "2025-04-13",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-04-13 0228 UTC BD8CKF OM20CQ.webp",
-      "size": 37784
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-04-13 1304 UTC BD8CKF OM20CQ.webp",
+      "size": 18920
     },
     {
       "name": "RS40S 2025-04-02 1305 UTC BD8CKF OM20CQ",
@@ -1067,28 +851,10 @@
       "size": 42480
     },
     {
-      "name": "RS40S 2025-04-01 1437 UTC BD8CKF OM20CQ",
-      "date": "2025-04-01",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-04-01 1437 UTC BD8CKF OM20CQ.webp",
-      "size": 18618
-    },
-    {
-      "name": "RS40S 2025-04-01 1338 UTC BD8CKF OM20CQ",
-      "date": "2025-04-01",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-04-01 1338 UTC BD8CKF OM20CQ.webp",
-      "size": 6270
-    },
-    {
       "name": "RS40S 2025-04-01 1405 UTC BD8CKF OM20CQ",
       "date": "2025-04-01",
       "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-04-01 1405 UTC BD8CKF OM20CQ.webp",
       "size": 25840
-    },
-    {
-      "name": "RS40S 2025-04-01 1341 UTC BD8CKF OM20CQ",
-      "date": "2025-04-01",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-04-01 1341 UTC BD8CKF OM20CQ.webp",
-      "size": 31980
     },
     {
       "name": "RS40S 2025-04-01 1402 UTC BD8CKF OM20CQ",
@@ -1097,16 +863,22 @@
       "size": 27866
     },
     {
-      "name": "RS40S 2025-03-22 0226 UTC BD8CKF OM20CQ",
-      "date": "2025-03-22",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-03-22 0226 UTC BD8CKF OM20CQ.webp",
-      "size": 54816
+      "name": "RS40S 2025-04-01 1338 UTC BD8CKF OM20CQ",
+      "date": "2025-04-01",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-04-01 1338 UTC BD8CKF OM20CQ.webp",
+      "size": 6270
     },
     {
-      "name": "RS40S 2025-03-22 0224 UTC BD8CKF OM20CQ",
-      "date": "2025-03-22",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-03-22 0224 UTC BD8CKF OM20CQ.webp",
-      "size": 20710
+      "name": "RS40S 2025-04-01 1341 UTC BD8CKF OM20CQ",
+      "date": "2025-04-01",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-04-01 1341 UTC BD8CKF OM20CQ.webp",
+      "size": 31980
+    },
+    {
+      "name": "RS40S 2025-04-01 1437 UTC BD8CKF OM20CQ",
+      "date": "2025-04-01",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-04-01 1437 UTC BD8CKF OM20CQ.webp",
+      "size": 18618
     },
     {
       "name": "RS40S 2025-03-22 0222 UTC BD8CKF OM20CQ",
@@ -1115,10 +887,16 @@
       "size": 41652
     },
     {
-      "name": "RS40S 2025-03-08 1413 UTC BD8CKF OM20CQ",
-      "date": "2025-03-08",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-03-08 1413 UTC BD8CKF OM20CQ.webp",
-      "size": 22412
+      "name": "RS40S 2025-03-22 0224 UTC BD8CKF OM20CQ",
+      "date": "2025-03-22",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-03-22 0224 UTC BD8CKF OM20CQ.webp",
+      "size": 20710
+    },
+    {
+      "name": "RS40S 2025-03-22 0226 UTC BD8CKF OM20CQ",
+      "date": "2025-03-22",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-03-22 0226 UTC BD8CKF OM20CQ.webp",
+      "size": 54816
     },
     {
       "name": "RS40S 2025-03-08 1411 UTC BD8CKF OM20CQ",
@@ -1127,10 +905,34 @@
       "size": 20220
     },
     {
+      "name": "RS40S 2025-03-08 1413 UTC BD8CKF OM20CQ",
+      "date": "2025-03-08",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-03-08 1413 UTC BD8CKF OM20CQ.webp",
+      "size": 22412
+    },
+    {
       "name": "RS40S 2025-02-28 1410 UTC BD8CKF OM20CQ",
       "date": "2025-02-28",
       "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-02-28 1410 UTC BD8CKF OM20CQ.webp",
       "size": 56444
+    },
+    {
+      "name": "RS40S 2025-02-22 1347 UTC BD8CKF OM20CQ",
+      "date": "2025-02-22",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-02-22 1347 UTC BD8CKF OM20CQ.webp",
+      "size": 26662
+    },
+    {
+      "name": "RS40S 2025-02-22 1353 UTC BD8CKF OM20CQ",
+      "date": "2025-02-22",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-02-22 1353 UTC BD8CKF OM20CQ.webp",
+      "size": 37206
+    },
+    {
+      "name": "RS40S 2025-02-22 1349 UTC BD8CKF OM20CQ",
+      "date": "2025-02-22",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-02-22 1349 UTC BD8CKF OM20CQ.webp",
+      "size": 16086
     },
     {
       "name": "RS40S 2025-02-22 1351 UTC BD8CKF OM20CQ",
@@ -1143,24 +945,6 @@
       "date": "2025-02-22",
       "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-02-22 1345 UTC BD8CKF OM20CQ.webp",
       "size": 45710
-    },
-    {
-      "name": "RS40S 2025-02-22 1353 UTC BD8CKF OM20CQ",
-      "date": "2025-02-22",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-02-22 1353 UTC BD8CKF OM20CQ.webp",
-      "size": 37206
-    },
-    {
-      "name": "RS40S 2025-02-22 1347 UTC BD8CKF OM20CQ",
-      "date": "2025-02-22",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-02-22 1347 UTC BD8CKF OM20CQ.webp",
-      "size": 26662
-    },
-    {
-      "name": "RS40S 2025-02-22 1349 UTC BD8CKF OM20CQ",
-      "date": "2025-02-22",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2025-02-22 1349 UTC BD8CKF OM20CQ.webp",
-      "size": 16086
     },
     {
       "name": "RS40S 2025-02-01 1307 UTC BD8CKF OL29OH",
@@ -1181,16 +965,16 @@
       "size": 34492
     },
     {
-      "name": "RS40S 2024-12-30 1413 UTC BD8CKF OM20CQ",
-      "date": "2024-12-30",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2024-12-30 1413 UTC BD8CKF OM20CQ.webp",
-      "size": 32708
-    },
-    {
       "name": "RS40S 2024-12-30 1410 UTC BD8CKF OM20CQ",
       "date": "2024-12-30",
       "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2024-12-30 1410 UTC BD8CKF OM20CQ.webp",
       "size": 40220
+    },
+    {
+      "name": "RS40S 2024-12-30 1413 UTC BD8CKF OM20CQ",
+      "date": "2024-12-30",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2024-12-30 1413 UTC BD8CKF OM20CQ.webp",
+      "size": 32708
     },
     {
       "name": "RS40S 2024-12-20_13.14.35BD8CKF OM20CQ",
@@ -1205,12 +989,6 @@
       "size": 33552
     },
     {
-      "name": "RS40S 2024-12-04_14.20.46BD8CKF OM20CQ",
-      "date": "2024-12-04",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2024-12-04_14.20.46BD8CKF OM20CQ.webp",
-      "size": 39320
-    },
-    {
       "name": "RS40S 2024-12-04_14.19.00BD8CKF OM20CQ",
       "date": "2024-12-04",
       "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2024-12-04_14.19.00BD8CKF OM20CQ.webp",
@@ -1221,6 +999,12 @@
       "date": "2024-12-04",
       "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2024-12-04_14.18.12 BD8CKF OM20CQ.webp",
       "size": 55096
+    },
+    {
+      "name": "RS40S 2024-12-04_14.20.46BD8CKF OM20CQ",
+      "date": "2024-12-04",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2024-12-04_14.20.46BD8CKF OM20CQ.webp",
+      "size": 39320
     },
     {
       "name": "RS40S 2024-11-16_14.10.27 BD8CKF OM20CQ",
@@ -1241,16 +1025,16 @@
       "size": 35474
     },
     {
-      "name": "RS40S 2024-06-12 BD8CKF OM20CQ",
-      "date": "2024-06-12",
-      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2024-06-12 BD8CKF OM20CQ.webp",
-      "size": 30458
-    },
-    {
       "name": "RS40S 2024-06-12 BD8CKF OM20CQ(2)",
       "date": "2024-06-12",
       "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2024-06-12 BD8CKF OM20CQ(2).webp",
       "size": 46984
+    },
+    {
+      "name": "RS40S 2024-06-12 BD8CKF OM20CQ",
+      "date": "2024-06-12",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2024-06-12 BD8CKF OM20CQ.webp",
+      "size": 30458
     },
     {
       "name": "RS40S 2024-06-03 BD8CKF OM20CQ",
@@ -1275,6 +1059,144 @@
       "date": "2024-03-15",
       "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2024-03-15 BD8CKF OM20CQ.webp",
       "size": 47974
+    }
+  ],
+  "🛰QMR-KWT-2 RS95S": [
+    {
+      "name": "RS95S 2026-02-25 1542 UTC BD8CKF OM20CQ 30°",
+      "date": "2026-02-25",
+      "url": "webpimages/🛰QMR-KWT-2 RS95S/RS95S 2026-02-25 1542 UTC BD8CKF OM20CQ 30°.webp",
+      "size": 52192
+    }
+  ],
+  "🛰SAKHACUBE-CHOLBON RS18S": [
+    {
+      "name": "RS18S 2026-09-02 1508 UTC BD8CKF OM20CQ",
+      "date": "2026-09-02",
+      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-09-02 1508 UTC BD8CKF OM20CQ.webp",
+      "size": 22868
+    },
+    {
+      "name": "RS18S 2026-09-02 1511 UTC BD8CKF OM20CQ",
+      "date": "2026-09-02",
+      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-09-02 1511 UTC BD8CKF OM20CQ.webp",
+      "size": 22180
+    },
+    {
+      "name": "RS18S 2026-07-30 1420 UTC BD8CKF PM06DG",
+      "date": "2026-07-30",
+      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-07-30 1420 UTC BD8CKF PM06DG.webp",
+      "size": 24480
+    },
+    {
+      "name": "RS18S 2026-07-28 1503 UTC BD8CKF OM20CQ",
+      "date": "2026-07-28",
+      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-07-28 1503 UTC BD8CKF OM20CQ.webp",
+      "size": 34796
+    },
+    {
+      "name": "RS18S 2026-07-28 1506 UTC BD8CKF OM20CQ",
+      "date": "2026-07-28",
+      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-07-28 1506 UTC BD8CKF OM20CQ.webp",
+      "size": 25194
+    },
+    {
+      "name": "RS18S 2026-06-01 1441 UTC BD8CKF OM20CQ",
+      "date": "2026-06-01",
+      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-06-01 1441 UTC BD8CKF OM20CQ.webp",
+      "size": 34876
+    },
+    {
+      "name": "RS18S 2026-06-01 1444 UTC BD8CKF OM20CQ",
+      "date": "2026-06-01",
+      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-06-01 1444 UTC BD8CKF OM20CQ.webp",
+      "size": 28442
+    },
+    {
+      "name": "RS18S 2026-04-25 1534 UTC BD8CKF OM20CQ",
+      "date": "2026-04-25",
+      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-04-25 1534 UTC BD8CKF OM20CQ.webp",
+      "size": 42190
+    },
+    {
+      "name": "2026-04-12 0330 UTC BD8CKF OM20BQ.bmp",
+      "date": "2026-04-12",
+      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/2026-04-12 0330 UTC BD8CKF OM20BQ.bmp.webp",
+      "size": 43614
+    },
+    {
+      "name": "RS18S 2026-04-12 0328 UTC BD8CKF OM20BQ",
+      "date": "2026-04-12",
+      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-04-12 0328 UTC BD8CKF OM20BQ.webp",
+      "size": 46334
+    },
+    {
+      "name": "RS18S 2026-04-12 0330 UTC BD8CKF OM20BQ.bmp",
+      "date": "2026-04-12",
+      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-04-12 0330 UTC BD8CKF OM20BQ.bmp.webp",
+      "size": 43614
+    },
+    {
+      "name": "2026-04-12 0328 UTC BD8CKF OM20BQ",
+      "date": "2026-04-12",
+      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/2026-04-12 0328 UTC BD8CKF OM20BQ.webp",
+      "size": 46334
+    },
+    {
+      "name": "RS18S 2026-03-09 1455 UTC BD8CKF OMCQ",
+      "date": "2026-03-09",
+      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-03-09 1455 UTC BD8CKF OMCQ.webp",
+      "size": 28552
+    },
+    {
+      "name": "RS18S 2026-03-09 1458 UTC BD8CKF OMCQ",
+      "date": "2026-03-09",
+      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-03-09 1458 UTC BD8CKF OMCQ.webp",
+      "size": 14046
+    },
+    {
+      "name": "RS18S 2026-03-09 1455 UTC BD8CKF OM20CQ",
+      "date": "2026-03-09",
+      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-03-09 1455 UTC BD8CKF OM20CQ.webp",
+      "size": 28552
+    },
+    {
+      "name": "RS18S 2026-03-09 1458 UTC BD8CKF OM20CQ",
+      "date": "2026-03-09",
+      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-03-09 1458 UTC BD8CKF OM20CQ.webp",
+      "size": 14046
+    },
+    {
+      "name": "RS18S 2026-02-16 0340 UTC BD8CKF OL29OH",
+      "date": "2026-02-16",
+      "url": "webpimages/🛰SAKHACUBE-CHOLBON RS18S/RS18S 2026-02-16 0340 UTC BD8CKF OL29OH.webp",
+      "size": 24214
+    }
+  ],
+  "🛰UTMN-2 RS27S": [
+    {
+      "name": "RS27S 2026-02-13 1503 UTC BD8CKF OL29OH",
+      "date": "2026-02-13",
+      "url": "webpimages/🛰UTMN-2 RS27S/RS27S 2026-02-13 1503 UTC BD8CKF OL29OH.webp",
+      "size": 46378
+    },
+    {
+      "name": "RS27S 2025-05-11_14.45.07 BD8CKF",
+      "date": "2025-05-11",
+      "url": "webpimages/🛰UTMN-2 RS27S/RS27S 2025-05-11_14.45.07 BD8CKF.webp",
+      "size": 201784
+    },
+    {
+      "name": "RS27S 2025-01-04 0236 UTC BD8CKF OM20CQ",
+      "date": "2025-01-04",
+      "url": "webpimages/🛰UTMN-2 RS27S/RS27S 2025-01-04 0236 UTC BD8CKF OM20CQ.webp",
+      "size": 36514
+    },
+    {
+      "name": "RS27S 2025-01-04 0238 UTC BD8CKF OM20CQ",
+      "date": "2025-01-04",
+      "url": "webpimages/🛰UTMN-2 RS27S/RS27S 2025-01-04 0238 UTC BD8CKF OM20CQ.webp",
+      "size": 40376
     }
   ],
   "🛰ARCTICSAT-1 RS74S": [
@@ -1303,28 +1225,22 @@
       "size": 32178
     },
     {
-      "name": "RS74S 2025-11-11 1410 UTC BD8CKF OM20CR",
-      "date": "2025-11-11",
-      "url": "webpimages/🛰ARCTICSAT-1 RS74S/RS74S 2025-11-11 1410 UTC BD8CKF OM20CR.webp",
-      "size": 35144
-    },
-    {
       "name": "RS74S 2025-11-11 1405 UTC BD8CKF OM20CR",
       "date": "2025-11-11",
       "url": "webpimages/🛰ARCTICSAT-1 RS74S/RS74S 2025-11-11 1405 UTC BD8CKF OM20CR.webp",
       "size": 41652
     },
     {
+      "name": "RS74S 2025-11-11 1410 UTC BD8CKF OM20CR",
+      "date": "2025-11-11",
+      "url": "webpimages/🛰ARCTICSAT-1 RS74S/RS74S 2025-11-11 1410 UTC BD8CKF OM20CR.webp",
+      "size": 35144
+    },
+    {
       "name": "RS74S 2025-11-09 0110 BD8CKF OM20CQ",
       "date": "2025-11-09",
       "url": "webpimages/🛰ARCTICSAT-1 RS74S/RS74S 2025-11-09 0110 BD8CKF OM20CQ.webp",
       "size": 29890
-    },
-    {
-      "name": "RS74S 2025-11-08 1450 UTC BD8CKF OM20CQ",
-      "date": "2025-11-08",
-      "url": "webpimages/🛰ARCTICSAT-1 RS74S/RS74S 2025-11-08 1450 UTC BD8CKF OM20CQ.webp",
-      "size": 47900
     },
     {
       "name": "RS74S 2025-11-08 0150 UTC BD8CKF OM20CQ",
@@ -1345,6 +1261,12 @@
       "size": 44270
     },
     {
+      "name": "RS74S 2025-11-08 1450 UTC BD8CKF OM20CQ",
+      "date": "2025-11-08",
+      "url": "webpimages/🛰ARCTICSAT-1 RS74S/RS74S 2025-11-08 1450 UTC BD8CKF OM20CQ.webp",
+      "size": 47900
+    },
+    {
       "name": "RS74S 2025-11-05 1350 UTC BD8CKF OM20CQ",
       "date": "2025-11-05",
       "url": "webpimages/🛰ARCTICSAT-1 RS74S/RS74S 2025-11-05 1350 UTC BD8CKF OM20CQ.webp",
@@ -1357,10 +1279,10 @@
       "size": 18986
     },
     {
-      "name": "RS74S 2025-10-17 1454 UTC BD8CKF OM20CQ 4°",
+      "name": "RS74S 2025-10-17 1448 UTC BD8CKF OM20CQ 10°",
       "date": "2025-10-17",
-      "url": "webpimages/🛰ARCTICSAT-1 RS74S/RS74S 2025-10-17 1454 UTC BD8CKF OM20CQ 4°.webp",
-      "size": 50516
+      "url": "webpimages/🛰ARCTICSAT-1 RS74S/RS74S 2025-10-17 1448 UTC BD8CKF OM20CQ 10°.webp",
+      "size": 30674
     },
     {
       "name": "RS74S 2025-10-17 1451 UTC BD8CKF OM20CQ 20°",
@@ -1369,10 +1291,10 @@
       "size": 31788
     },
     {
-      "name": "RS74S 2025-10-17 1448 UTC BD8CKF OM20CQ 10°",
+      "name": "RS74S 2025-10-17 1454 UTC BD8CKF OM20CQ 4°",
       "date": "2025-10-17",
-      "url": "webpimages/🛰ARCTICSAT-1 RS74S/RS74S 2025-10-17 1448 UTC BD8CKF OM20CQ 10°.webp",
-      "size": 30674
+      "url": "webpimages/🛰ARCTICSAT-1 RS74S/RS74S 2025-10-17 1454 UTC BD8CKF OM20CQ 4°.webp",
+      "size": 50516
     },
     {
       "name": "RS74S 2025-08-27 1413 UTC BD8CKF OM20CQ",
@@ -1381,16 +1303,16 @@
       "size": 11936
     },
     {
-      "name": "RS74S 2025-06-28 1420 UTC BD8CKF OM20CQ",
-      "date": "2025-06-28",
-      "url": "webpimages/🛰ARCTICSAT-1 RS74S/RS74S 2025-06-28 1420 UTC BD8CKF OM20CQ.webp",
-      "size": 23274
-    },
-    {
       "name": "RS74S 2025-06-28 1417 UTC BD8CKF OM20CQ",
       "date": "2025-06-28",
       "url": "webpimages/🛰ARCTICSAT-1 RS74S/RS74S 2025-06-28 1417 UTC BD8CKF OM20CQ.webp",
       "size": 48506
+    },
+    {
+      "name": "RS74S 2025-06-28 1420 UTC BD8CKF OM20CQ",
+      "date": "2025-06-28",
+      "url": "webpimages/🛰ARCTICSAT-1 RS74S/RS74S 2025-06-28 1420 UTC BD8CKF OM20CQ.webp",
+      "size": 23274
     },
     {
       "name": "RS74S 2025-01-01 1345 UTC BD8CKF OM20CQ",
@@ -1403,6 +1325,96 @@
       "date": "2024-12-30",
       "url": "webpimages/🛰ARCTICSAT-1 RS74S/RS74S 2024-12-30 1415 UTC BD8CKF OM20CQ.webp",
       "size": 27244
+    }
+  ],
+  "？": [
+    {
+      "name": "2025-01-01_14.13.09",
+      "date": "2025-01-01",
+      "url": "webpimages/？/2025-01-01_14.13.09.webp",
+      "size": 58324
+    },
+    {
+      "name": "2025-01-01_14.10.39",
+      "date": "2025-01-01",
+      "url": "webpimages/？/2025-01-01_14.10.39.webp",
+      "size": 60318
+    },
+    {
+      "name": "2025-01-01_14.12.19",
+      "date": "2025-01-01",
+      "url": "webpimages/？/2025-01-01_14.12.19.webp",
+      "size": 61332
+    }
+  ],
+  "🛰MANOZOND-1 RS49S": [
+    {
+      "name": "🛰RS49S 20260419 0425 UTC BD8CKF OM20CQ",
+      "date": "2026-10-03",
+      "url": "webpimages/🛰MANOZOND-1 RS49S/🛰RS49S 20260419 0425 UTC BD8CKF OM20CQ.webp",
+      "size": 36300
+    },
+    {
+      "name": "🛰RS49S 20250112 1354 UTC BD8CKF OM20CQ",
+      "date": "2026-10-03",
+      "url": "webpimages/🛰MANOZOND-1 RS49S/🛰RS49S 20250112 1354 UTC BD8CKF OM20CQ.webp",
+      "size": 40458
+    }
+  ],
+  "🛰Hyperview-1G RS66S": [
+    {
+      "name": "RS66S 2025-10-18 0105 UTC BD8CKF OM20CQ",
+      "date": "2025-10-18",
+      "url": "webpimages/🛰Hyperview-1G RS66S/RS66S 2025-10-18 0105 UTC BD8CKF OM20CQ.webp",
+      "size": 30694
+    },
+    {
+      "name": "RS66S 2025-10-18 0111 UTC BD8CKF OM20CQ",
+      "date": "2025-10-18",
+      "url": "webpimages/🛰Hyperview-1G RS66S/RS66S 2025-10-18 0111 UTC BD8CKF OM20CQ.webp",
+      "size": 58720
+    },
+    {
+      "name": "RS66S 2025-10-18 0108 UTC BD8CKF OM20CQ",
+      "date": "2025-10-18",
+      "url": "webpimages/🛰Hyperview-1G RS66S/RS66S 2025-10-18 0108 UTC BD8CKF OM20CQ.webp",
+      "size": 43248
+    },
+    {
+      "name": "RS66S 2025-01-06 1432 UTC BD8CKF OM20CQ",
+      "date": "2025-01-06",
+      "url": "webpimages/🛰Hyperview-1G RS66S/RS66S 2025-01-06 1432 UTC BD8CKF OM20CQ.webp",
+      "size": 49116
+    },
+    {
+      "name": "RS66S 2025-01-06_15.47.11 BD8CKF",
+      "date": "2025-01-06",
+      "url": "webpimages/🛰Hyperview-1G RS66S/RS66S 2025-01-06_15.47.11 BD8CKF.webp",
+      "size": 61944
+    },
+    {
+      "name": "RS66S 2025-01-05 0151 UTC BD8CKF OM20CQ",
+      "date": "2025-01-05",
+      "url": "webpimages/🛰Hyperview-1G RS66S/RS66S 2025-01-05 0151 UTC BD8CKF OM20CQ.webp",
+      "size": 32716
+    },
+    {
+      "name": "RS66S 2025-01-05 0156 UTC BD8CKF OM20CQ",
+      "date": "2025-01-05",
+      "url": "webpimages/🛰Hyperview-1G RS66S/RS66S 2025-01-05 0156 UTC BD8CKF OM20CQ.webp",
+      "size": 58100
+    },
+    {
+      "name": "RS66S 2025-01-05 0154 UTC BD8CKF OM20CQ",
+      "date": "2025-01-05",
+      "url": "webpimages/🛰Hyperview-1G RS66S/RS66S 2025-01-05 0154 UTC BD8CKF OM20CQ.webp",
+      "size": 25054
+    },
+    {
+      "name": "RS66S 2025-01-05_02.07.08 BD8CKF OM20CQ",
+      "date": "2025-01-05",
+      "url": "webpimages/🛰Hyperview-1G RS66S/RS66S 2025-01-05_02.07.08 BD8CKF OM20CQ.webp",
+      "size": 35100
     }
   ]
 }
