@@ -519,6 +519,14 @@
       "size": 29016
     }
   ],
+  "🛰LUCA-1 RS90S": [
+    {
+      "name": "RS90S 2026-10-10 1525 UTC BD8CKF OM20CQ",
+      "date": "2026-10-10",
+      "url": "webpimages/🛰LUCA-1 RS90S/RS90S 2026-10-10 1525 UTC BD8CKF OM20CQ.webp",
+      "size": 30876
+    }
+  ],
   "🛰UMKA-1 RS40S": [
     {
       "name": "RS40S 2026-08-25 13341 UTC BD8CKF OM20CQ",
@@ -1350,13 +1358,13 @@
   "🛰MANOZOND-1 RS49S": [
     {
       "name": "🛰RS49S 20260419 0425 UTC BD8CKF OM20CQ",
-      "date": "2026-10-03",
+      "date": "2026-10-12",
       "url": "webpimages/🛰MANOZOND-1 RS49S/🛰RS49S 20260419 0425 UTC BD8CKF OM20CQ.webp",
       "size": 36300
     },
     {
       "name": "🛰RS49S 20250112 1354 UTC BD8CKF OM20CQ",
-      "date": "2026-10-03",
+      "date": "2026-10-12",
       "url": "webpimages/🛰MANOZOND-1 RS49S/🛰RS49S 20250112 1354 UTC BD8CKF OM20CQ.webp",
       "size": 40458
     }
