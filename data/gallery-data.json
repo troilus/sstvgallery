@@ -625,6 +625,30 @@
   ],
   "🛰UMKA-1 RS40S": [
     {
+      "name": "RS40S 2026-10-27 1454 UTC BD8CKF OM20CQ",
+      "date": "2026-10-27",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2026-10-27 1454 UTC BD8CKF OM20CQ.webp",
+      "size": 28252
+    },
+    {
+      "name": "RS40S 2026-10-27 1452 UTC BD8CKF OM20CQ",
+      "date": "2026-10-27",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2026-10-27 1452 UTC BD8CKF OM20CQ.webp",
+      "size": 21372
+    },
+    {
+      "name": "RS40S 2026-10-27 1458 UTC BD8CKF OM20CQ",
+      "date": "2026-10-27",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2026-10-27 1458 UTC BD8CKF OM20CQ.webp",
+      "size": 26060
+    },
+    {
+      "name": "RS40S 2026-08-25 1334 UTC BD8CKF OM20CQ",
+      "date": "2026-08-25",
+      "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2026-08-25 1334 UTC BD8CKF OM20CQ.webp",
+      "size": 23730
+    },
+    {
       "name": "RS40S 2026-08-25 13341 UTC BD8CKF OM20CQ",
       "date": "2026-08-25",
       "url": "webpimages/🛰UMKA-1 RS40S/RS40S 2026-08-25 13341 UTC BD8CKF OM20CQ.webp",
@@ -1168,13 +1192,13 @@
   "🛰MANOZOND-1 RS49S": [
     {
       "name": "🛰RS49S 20260419 0425 UTC BD8CKF OM20CQ",
-      "date": "2026-10-25",
+      "date": "2026-10-28",
       "url": "webpimages/🛰MANOZOND-1 RS49S/🛰RS49S 20260419 0425 UTC BD8CKF OM20CQ.webp",
       "size": 36300
     },
     {
       "name": "🛰RS49S 20250112 1354 UTC BD8CKF OM20CQ",
-      "date": "2026-10-25",
+      "date": "2026-10-28",
       "url": "webpimages/🛰MANOZOND-1 RS49S/🛰RS49S 20250112 1354 UTC BD8CKF OM20CQ.webp",
       "size": 40458
     }
